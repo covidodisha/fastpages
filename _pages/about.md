@@ -9,4 +9,4 @@ permalink: /about/
 
 
 
-This website is powered by [fastpages](https://github.com/fastai/fastpages) and hosted on GitHub.
+This website is powered by [fastpages](https://github.com/fastai/fastpages) and hosted on [GitHub](https://github.com).
